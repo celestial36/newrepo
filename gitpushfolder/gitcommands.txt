@@ -1,0 +1,1 @@
+git commit - takes a snapshot of the current changes and stores it permanantly.
