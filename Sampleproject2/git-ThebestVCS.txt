@@ -1,0 +1,12 @@
+What are the benefits of using version control, especialy Git? 
+
+	Having a GitHub repo makes it easy for you to keep 
+track of collaborative and personal projects - all files necessary 
+for certain analyses can be held together and people can add in their 
+code, graphs, etc. as the projects develop.
+
+One of the biggest advantages of Git is its branching capabilities. 
+Unlike centralized version control systems, Git branches are cheap 
+and easy to merge. This facilitates the feature branch workflow popular 
+with many Git users. Feature branches provide an isolated environment 
+for every change to your codebase.
